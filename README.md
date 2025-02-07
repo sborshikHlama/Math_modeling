@@ -1,18 +1,18 @@
 # Math_modeling
-LPP (linear programming problem)
-What are components of LPP?
 
-LPP is a real world problem description that includes only the most important elements
-1.  Description of real world problem
-2. Evaluation
-3. Charachteristic of a process
-4. Information about process limitations
-5. Description of relationships between factors
+## Introduction
+Math_modeling is a Python library for solving Linear Programming Problems (LPP). It provides a set of tools to define and solve optimization problems with ease.
 
-LPP solution
-1. Variables
-	variables should be set from requirements of goal function
-1. Restrictions
-	restrictions are caused by factors that limit process, such as machine power, supplies amount and etc.
-2. Goal function
-	 goal function shows how to maximise or minimise something
+## Features
+- Define linear programming problems with variables, constraints, and objective functions.
+- Solve optimization problems using various algorithms.
+- Comprehensive documentation and examples.
+
+Examples
+For more examples, please refer to the examples directory.
+
+Contributing
+We welcome contributions from the community. Please see our contributing guidelines for more details.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
